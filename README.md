@@ -1,12 +1,38 @@
-## Olá, eu sou o Victor Hugo (TorHugo) 👋
-### Estudo programação a um pouco mais de 1 ano. E sou apaixonado por ela :sparkling_heart::mage:!
+### Olá, eu sou o Victor Hugo (TorHugo) 👋
+### Estudo programação a um pouco mais de 1 ano. E sou apaixonado por ela 💖🧙‍♂️!
 
-- :woman_technologist: Atualmente trabalho como Analista de Sistemas, pela empresa <a href = "http://www.confitec.com.br/" target="_blank">Confitec</a>;
-- :hammer_and_wrench: Onde minhas principais atribuições e responsabilidades é desenvolver novas features com eficácia e agilidade, soluções voltadas para o setor financeiro de seguros;
-- :computer: Minhas principais techs são **SpringBoot** e **SqlServer**.
+<hr/>
+<h3>🛠️ Working</h3>
+- Atualmente trabalho como Analista de Sistemas, pela empresa @<a href = "http://www.confitec.com.br/" target="_blank"><b><i>Confitec</i></b></a>;<br/>
+- Onde minhas principais responsabilidades e atribuições são:<br/>
+1.1 - <b><i>Desenvolver</i></b> novas features;<br/>
+1.2 - <b><i>Analisar</i></b> e corrigir bugs;<br/>
+1.3 - <b><i>Entender</i></b> sobre o negócio para auxiliar nos meus _desenvolvimentos_ do dia a dia.
 
-- :books: Em sua maioria, meu foco principal do momento, é o estudo da linguagem **Java** e todo o **Ecossistema Spring**, atribuído de conceitos de **Sql** que facilitará meu dia a dia, e já tive um contato com **Python**.
-- :open_book: Meus próximos passos serão o estudo focado na cultura de **DevOps** e **Deploy** em **Nuvem**.
+<hr/>
+<h3>📞 Contacts:</h3>
+2.1 - <b><i>LinkedIn</i></b>: <a href = "https://www.linkedin.com/in/victorhugodev/" target="_blank">Victor Hugo Arruda</a>;<br/>
+2.2 - <b><i>Email</i></b>: <a href = "mailto:arruda.victorhugo@outlook.com" target="_blank">arruda.victorhugo@outlook.com</a>;<br/>
+2.3 - <b><i>Discord</i></b>: @Vitinho#6156
+
+<hr/>
+<h3>💻 Techs:</h3>
+- Hoje todo meu conhecimento é voltado ao desenvolvimento de <b><i>RestApi</i></b>. Para isso utilizo:<br/>
+3.1 - <b><i>SpringBoot</i></b> e seu ecossistema (<i>Batch, Security, Web, etc</i>);<br/>
+3.2 - <b><i>SqlServer</i></b> onde hoje, utilizo com <i>Jdbc</i> para um melhor desempenho nas consultas. 
+
+<hr/>
+<h3>📚 Studies:</h3>
+4.1 - Atualmente estou no terceiro semestre do curso de <b><i>Analise</i></b> e <b><i>Desenvolvimento de Sistemas</i></b> pela universidade @<a href = "http://www.fiap.com.br/" target="_blank"><b><i>Fiap</i></b></a>;<br/>
+4.2 - Hoje meu foco está designado ao estudo da linguagem <b><i>Java</i></b> e todo o <b><i>Ecossistema Spring</i></b>;<br/>
+4.3 - Também em paralelo, estudo <b><i>JUnit</i></b>, pela sua importancia no desenvolvimento de um sistema;
+
+<hr/>
+<h3>📖 Future:</h3>
+5.1 - Meus próximos passos serão o estudo focado na cultura de <b><i>DevOps</i></b> e <b><i>Deploy</i></b> em <b><i>Nuvem</i></b>;<br/>
+5.2 - E também começar os estudos em <b><i>Front-End</i></b>.
+
+<hr/>
 
 <div align="center">
   <a href="https://github.com/TorHugo">
@@ -21,13 +47,5 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 </div>
 
-##
-### **Contatos**:
-<div> 
-<div> 
-  <a href = "https://www.linkedin.com/in/victorhugodev/" target="_blank"><b>LinkedIn.<b/></a>
-</div>
-<div> 
-  <a href = "mailto:arruda.victorhugo@outlook.com" target="_blank"><b>Email.<b/></a>
-</div>
-</div>
+<hr/>
+	
