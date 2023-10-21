@@ -17,15 +17,19 @@
 
 <hr/>
 <h3>💻 Techs:</h3>
-- Hoje todo meu conhecimento é voltado ao desenvolvimento de <b><i>RestApi</i></b>. Para isso utilizo:<br/>
-3.1 - <b><i>SpringBoot</i></b> e seu ecossistema (<i>Batch, Security, Web, etc</i>);<br/>
-3.2 - <b><i>SqlServer</i></b> onde hoje, utilizo com <i>Jdbc</i> para um melhor desempenho nas consultas. 
+🎈 Hoje todo meu conhecimento é voltado ao desenvolvimento de <b><i>RestApi</i></b>. Para isso utilizo:<br/>
+✔ Python(lambda); Java; SpringBoot; SpringBatch; JUnit. <br/>
+✔ Microsoft SqlServer 2019; Postgresql; Mysql.<br/>
+✔ Docker; Docker-Compose.<br/>
+✔ AWS (SQS; Secrets; Lambda; SQS DLQ; CloudWatch; entre outros).<br/>
+✔ Git; GitHub; GitFlow.<br/>
 
 <hr/>
 <h3>📚 Studies:</h3>
-4.1 - Atualmente estou no terceiro semestre do curso de <b><i>Analise</i></b> e <b><i>Desenvolvimento de Sistemas</i></b> pela universidade @<a href = "http://www.fiap.com.br/" target="_blank"><b><i>Fiap</i></b></a>;<br/>
+4.1 - Atualmente estou no quarto semestre do curso de <b><i>Analise</i></b> e <b><i>Desenvolvimento de Sistemas</i></b> pela universidade @<a href = "http://www.fiap.com.br/" target="_blank"><b><i>Fiap</i></b></a>;<br/>
 4.2 - Hoje meu foco está designado ao estudo da linguagem <b><i>Java</i></b> e todo o <b><i>Ecossistema Spring</i></b>;<br/>
-4.3 - Também em paralelo, estudo <b><i>JUnit</i></b>, pela sua importancia no desenvolvimento de um sistema;
+4.3 - Design Patterns pela sua importancia em um desenvolvimento de software.<br/>
+4.4 - Cloud Computing, venho me aprofundando e aventurando cada vez mais nesse mágico mundo!.<br/>
 
 <hr/>
 <h3>📖 Future:</h3>
@@ -36,15 +40,31 @@
 
 <div align="center">
   <a href="https://github.com/TorHugo">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TorHugo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TorHugo&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+</a> 
+&nbsp
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+</a> 
+&nbsp
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
+</a> 
+&nbsp
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a> 
+&nbsp
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a> 
+&nbsp
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a> 
 </div>
 
 <hr/>
