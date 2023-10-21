@@ -1,5 +1,5 @@
 ### Olá, eu sou o Victor Hugo (TorHugo) 👋
-### Estudo programação a um pouco mais de 1 ano. E sou apaixonado por ela 💖🧙‍♂️!
+### Estudo programação há um quase dois anos. E sou apaixonado por ela 💖🧙‍♂️!
 
 <hr/>
 <h3>🛠️ Working</h3>
