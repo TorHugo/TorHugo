@@ -12,7 +12,7 @@
 <hr/>
 <h3>📞 Contacts:</h3>
 2.1 - <b><i>LinkedIn</i></b>: <a href = "https://www.linkedin.com/in/victorhugodev/" target="_blank">Victor Hugo Arruda</a>;<br/>
-2.2 - <b><i>Email</i></b>: <a href = "mailto:arruda.victorhugo@outlook.com" target="_blank">arruda.victorhugo@outlook.com</a>;<br/>
+2.2 - <b><i>Email</i></b>: <a href = "mailto:contato.arrudavictor@gmail.com" target="_blank">contato.arrudavictor@gmail.com</a>;<br/>
 2.3 - <b><i>Discord</i></b>: @Vitinho#6156
 
 <hr/>
