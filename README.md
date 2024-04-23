@@ -22,4 +22,5 @@
 
 ### 👨‍💻 Projects
 - [GitHub](https://github.com/TorHugo?tab=repositories)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torhugo&layout=compact&langs_count=7&theme=dark)
