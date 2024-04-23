@@ -11,7 +11,7 @@
 - SOLID;
 - Hexagonal Architecture;
 - Clean Architecture;
-- DDD (Driven Domain-Design);
+- DDD (Domain-Driven Design);
 - Cloud (AWS/Oracle);
 - DevOps (CI/CD with GitHub Actions and other technologies).
 
