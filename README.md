@@ -21,8 +21,8 @@
 - [Beacons](https://beacons.ai/tor_hugo)
 
 ### 👨‍💻 Projects
-- [GitHub](https://github.com/TorHugo)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=torhugo&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=torhugo&layout=compact&langs_count=7&theme=dark)
+<div align="center">
+  <a href="https://github.com/torhugo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=torhugo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torhugo&layout=compact&langs_count=7&theme=dark"/>
+</div>
